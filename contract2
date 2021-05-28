@@ -1,0 +1,3 @@
+ import "./sovrynCoin.sol";
+import "./market.sol";
+contract deploy is sovrynCoin, market { function() { revert(); } }
