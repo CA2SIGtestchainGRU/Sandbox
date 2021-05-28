@@ -1,11 +1,10 @@
 # Lab Name
-_Enter the name of your lab here._
+_Dummy SovrynCoin Creation with Trading Asset Management Smart Contracts ._
 
 # Short Description
-_Provide a short description of your lab. This will be used for the Github repository's description._
-
+_This is the Sandbox for the SovrynCoin 
 # Scope of Lab
-_Enter the scope of the lab. This should include enough information to allow the Lab stewards to understand how it fits within Hyperledger's mission._
+_The scope is the creation of a 
 
 # Initial Committers
 _Enter the Github IDs for the set of initial committers._
